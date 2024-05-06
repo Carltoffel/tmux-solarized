@@ -1,0 +1,20 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# Solarized (Dark)
+# Background Tones
+thm_bg="#002b36"        # base03
+thm_gray="#073642"      # base02
+thm_black="#586875"     # base01
+# Content Tones
+thm_fg="#93a1a1"        # base1
+thm_black4="#839496"    # base0
+# Accent Colors
+thm_yellow="#b58900"    # yellow
+thm_orange="#cb4b16"    # orange
+thm_red="#dc322f"       # red
+thm_magenta="#d33682"   # magenta
+thm_pink="#6c71c4"      # violet
+thm_blue="#268bd2"      # blue
+thm_cyan="#2aa198"      # cyan
+thm_green="#859900"     # green
